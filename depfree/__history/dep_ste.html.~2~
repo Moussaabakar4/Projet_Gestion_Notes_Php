@@ -1,0 +1,104 @@
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>internet</title>
+	<meta charset="utf-8" >
+	
+	<link rel="stylesheet" type="text/css" href="../css/styledefaut.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax400.css">
+	
+</head>
+
+<body>
+	<div id="wrapper">
+	<div id="header">
+	<div id="logo-et-slogan">
+	<img id="logo" src="../images/logo_insta.png">
+	<p id="slogan">Unité Travail Progrès</p>
+	</div>
+	<div id="menu">
+	<ul>
+	      <li><a href="../description/presentation.html">PRESENTATION</a></li>
+	      <li><a href="../description/enseignement.html">ENSEIGNEMENT</a></li>
+	      <li><a href="../description/bibliotheque.html">BIBLIOTHEQUE</a></li>
+	      <li><a href="../description/partenaire.html">PARTENAIRE</a></li>
+	      <li><a href="../description/recherche.html">RECHERCHE</a></li>
+	</ul>
+	</div>
+	</div>
+	<div id="main">
+	<div id="tete">
+	<p id="titre">Institut National Supérieur des Sciences et Techniques d'Abéché</p>
+	<img id="banniere" src="../images/banniere1.jpg">
+	</div>
+	<div id="content">
+<h2>Le Département des Sciences et Techniques de l'Evevage</h2>
+                   <h3>Objectif du Département</h3>
+                   Le département des sciences et techniques d’élevage constitue une filière de
+                  formation en sciences pastorales présentant deux options ; production animale et
+                 santé animale. Ce département est structuré en deux cycles : Au premier cycle,
+            les étudiants recrutés avec le niveau du baccalauréat ou d''un titre admis en
+équivalent, sont formés pendant une durée de trois ans, comme des ingénieurs
+des techniques d’élevage dans les options évoquées ci-dessus, . Le second
+cycle conduit en deux ans au master en santé et productions animales.
+Parallèlement à sa mission de formation, ce département anime un programme
+de recherche axé sur les thèmes suivants :
+- L’amélioration et la conservation des ressources génétiques animales ;
+- L’analyse de la qualité nutritionnelle et hygiénique des aliments ;
+- Les systèmes pastoraux.
+           <h3>Organisation du Département</h3>
+           Le Departement est dirigé par Dr Mbaindingatoloum Fidéle Molélé.
+Le service de la scolarié du departement est assuré par Monsieur Issa Youssouf
+Le departement dispose de ses propres locaux équipés des sallles de cours magistraux, travaux dirigés et des
+laboratoires pour les travaux pratiques. Le departement dispose également d'une ferme expérimentale destinée aux
+travaux de recherches et travaux pratiques des étudiants.
+La formation est assurée par les enseignants même du departement. Mais le département fait également appel aux
+enseignants du département des sciences Biomédicales et pharmaceutiques(SBMP) ainsi qu'à ceux des Universités
+de N?djamena et Adam Barka d'Abéché au Tchad, de l'Ecole Inter-Etats des Sciences et Médecine Vétérinaires
+(EISMV) et de l’Université Cheik Anta Diop (UCAD) de Dakar et de l’Ecole Nationale Vétérinaire de Lyon en France,
+ainsi qu’aux professionnels tchadiens pour couvrir l’essentiel des enseignements.
+
+				<h3>Organisation des enseignements</h3>
+				Les enseignements sont organisés en cours magistraux, travaux dirigés et travaux pratiques. La présence des
+étudiants à ces enseignements est obligatoire. La méthode d'évaluation est celle fixée par le reglement intérieur et
+statut de l'IUSTA (sera publié prochainement). Une moyenne générale supérieure ou égale à dix sur vingt (10/20) est
+obligatoire pour le passage au niveau supérieur.
+Au premier cycle la formation s'étend sur une durée de trois années d'études.
+En premiere année, la formation est plus gérérale et donne une base scientifique et technique pour aborder plutard
+les enseignements spécialisés. Les matières disponsées sont : Mathématique, Physique, Chimie, Géologie, Biologie
+végétale, Biologie animale-Zoologie, Anatomie et Physiologie animales, Informatique, Technique d'expression
+française et anglais.le volume horaire global est de 895 reparti en 450 heures des cours thèoriques et 445 heures
+des travaux dirigés. Pour plus d'information consulter le
+En deuxième année, la formation est toujours en tronc commun pendant l'année académique suivi de deux mois de
+stage pratique dans les secteurs veterinaires, entreprises et institutions étatiques pour la découverte des milieux
+socio-professionnel. les matières dispensées sont : Génétique et Ethnologie, Alimentation générale des animaux,
+Etude du milieu et environnement, HIDAOA (Inspections des denrées), Anatomie pathologique générale,
+Microbiologie et Helmintologie, Chimie et Physique biologiques, Petites chirurgie, Pharmacie et Toxicologie,
+Informatique, Technique d'expression française et Anglais.
+En troisième année, la formation est beaucoup plus spécialisée. Après une formation en tronc commun sur quelques
+matière communes (Informatique, Gestion d'entreprises, Biométrie, Droit du developpement rural et Anglais), deux
+options se distinguent : Les productions animales et la santé animale.
+Sur un volume horaire de 290 heures la santé aniSur un volume horaire de 290 heures la santé animale referme les
+matières suivantes : Génétique et productions animales, Réproduction animale, Pathologie du bétail et animaux de
+compagnie, Enttomologie médicale et vetérinaire, HIDAOA, Techniques et phatologies chirurgicales.
+Le volume horaire en productions animales est de 310 heures. Les matières dispensées sont : Filières de productions animales,
+Génétique animale, Pastoralisme (écologie, systèmes d'élévage et pastoraux et gestion des ressources naturelles), Genie rurale,
+Hygiène et technologie des produits animaux, Réproduction animale et Santé animale. Un stage de trois sur le terrain est programmé
+àUn stage de trois sur le terrain est programmé à l'issus de cette formation et l'étudiant doit déposer un rapport pour la validité de sa
+formation.
+Le programme au second cycle sera publié très prochainement.
+		  
+	</div>
+	<div id="footer">BP 6077 Ndjamena-Tchad     Tel (DG) +235 66 29 05 45 </br>
+BP 130 Abeché-Tchad    Tel (DGA) +235 66 36 59 19, (SG) +235 66 26 72 26</br>
+Tel (Département Génie Informatique) +235 66 25 22 66 </br> INSTA 2017 &copy;</br></div>
+	</div>
+	<div id="reset"></div>
+	
+	</div>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>internet</title>
+	<meta charset="utf-8" >
+	
+	<link rel="stylesheet" type="text/css" href="../css/styledefaut.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax400.css">
+	
+</head>
+
+<body>
+	<div id="wrapper">
+	<div id="header">
+	<div id="logo-et-slogan">
+	<img id="logo" src="../images/logo_insta.png">
+	<p id="slogan">Unité Travail Progrès</p>
+	</div>
+	<div id="menu">
+	<ul>
+	     <li><a href="#">LEPREMIERLIEN1</a></li>
+	     <li><a href="#">LEPREMIERLIEN2</a></li>
+	     <li><a href="#">LEPREMIERLIEN3</a></li>
+	     <li><a href="#">LEPREMIERLIEN4</a></li>
+	     <li><a href="../programmes/matieres.html">Tables de Matières</a></li>
+	</ul>
+	</div>
+	</div>
+	<div id="main">
+	<div id="tete">
+	<p id="titre">Institut National Supérieur des Sciences et Techniques d'Abéché</p>
+	<img id="banniere" src="../images/banniere1.jpg">
+	</div>
+	<div id="content">
+	<h1 >Bibliothèque</h1>
+
+La bibliothèque de l'INSTA est pluridisciplinaire. C'est un service de la documentation  qui couvre les thématiques
+ suivantes Sciences, Technologie, Economie, et Gestion.<br/><br/>
+
+Cette bibliothèque comprend un bon nombre d'ouvrages, des revues. Ces ouvrages et revues sont tous centralisés dans
+ une salle et l'acquisition se fait malheureusement jusqu'à présent  manuellement à l'aide des catalogues. L'Institut 
+ a un projet de construction d'une grande bibliothèque équipée des matériels multimédia et dont l'accès se fait 
+  en ligne par le web. La consultation est libre mais il est nécessaire d'être inscrit pour emprunter des ouvrages.
+   Les inscriptions sont valables pendant toute la durée de l’année universitaire.<br/>
+Pièces nécessaires :<br/>
+• le formulaire d’inscription (à rétirer à la bibliothèque)<br/>
+• la carte d'étudiant<br/>
+Une carte de bibliothèque est fournie lors de l'inscription.
+
+Pour les enseignants et le personnel administratif, l'inscription se fait sur presentation de la carte professionnelle
+ cependant un formulaire est à remplir.<br/><br/>
+
+Pour les personnes extérieures à l'Institut, l'inscription est autorisée par la direction.<br/>
+
+Les horaires et accès<br/>
+
+L'accès est permis à toute personne ayant l'autorisation du service de la bibliothèque et l'administration.<br/>
+ La bibliothèque est ouverte du lundi au samedi selon les horaires suivantes:<br/>
+
+du lundi au jeudi de 7h30 à 15h30<br/>
+le vendredi et le samedi de 7h30 à 12h00<br/>
+		  
+	</div>
+	<div id="footer">webmaster-webmaster-webmaster-webmaster-webmaster</div>
+	</div>
+	<div id="reset"></div>
+	
+	</div>
+</body>
+</html>

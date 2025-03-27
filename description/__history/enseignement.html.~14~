@@ -1,0 +1,92 @@
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>internet</title>
+	<meta charset="utf-8" >
+	
+	<link rel="stylesheet" type="text/css" href="../css/styledefaut.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax400.css">
+	
+</head>
+
+<body>
+	<div id="wrapper">
+	<div id="header">
+	<div id="logo-et-slogan">
+	<img id="logo" src="../images/logo_insta.png">
+	<p id="slogan">Unité Travail Progrès</p>
+	</div>
+	<div id="menu">
+	<ul>
+	     <li><a href="../index.html">ACCUEIL</a></li>
+	     <li><a href="../description/presentation.html">PRESENTATION</a></li>
+	     <li><a href="../description/partenaire.html">PARTENAIRES</a></li>
+	     <li><a href="../description/bibliotheque.html">BIBLIOTHEQUE</a></li>
+	     <li><a href="../description/recherche.html">RECHERCHE</a></li>
+	      <li><a href="../departements/departements.html">DEPARTEMENTS</a></li>
+	      <li><a href="../programmes/matieres.html">MATIERES</a></li>
+	      <li><a href="../notes/authgesnote.php">GERER NOTES</a></li>
+	      <li><a href="../notes/note.php">VOIR NOTES</a></li>
+	      <li><a href="../listetudiants.html">LISTE ETUDIANTS</a></li>
+	</ul>
+	</div>
+	</div>
+	<div id="main">
+	<div id="tete">
+	<p id="titre">Institut National Supérieur des Sciences et Techniques d'Abéché</p>
+	<img id="banniere" src="../images/banniere1.jpg">
+	</div>
+	<div id="content">
+ <h3> L'Enseignement à l'INSTA</h3>
+				 <a href="#ancre1">Organisation et domaines d'enseignement</a><br/>
+				 <a href="#ancre2">Inscriptions et réinscriptions</a><br/>
+				 <a href="#ancre3">Contrôle des connaissances</a><br/>
+				 <h4 id="ancre1">Organisation et domaines d'enseignement</h4>
+				 Les enseignements dispensés à l’Institut National des Sciences et<br/>
+         Techniques d’Abéché permettent aux étudiants recrutés au niveau baccalauréat<br/>
+         ou tout autre diplôme reconnu équivalent d’obtenir au premier cycle un diplôme<br/>
+         de Bac + 3 ; et au second cycle un Master (Bac + 5).<br/><br/>
+        L’intitulé de diplôme est relatif à chaque département :<br/><br/>
+        
+        - En Informatique : Diplôme de Licence (Bac +3);<br/>
+- En Electromécanique: Diplôme d’Ingénieur des Travaux (Bac +3) ou
+Master2(Bac +5) en genie électrique ou genie mécanique;<br/>
+- En Elevage : Diplôme de Technicien en production ou santé animale (Bac +3)
+ou Master2 (Bac +5) ;<br/>
+- En Sciences Biomédicales et pharmaceutiques : Diplôme de Technicien
+Supérieur en Santé.<br/><br/>
+Le département des sciences fondamentales a pour rôle de fournir des bases
+scientifiques pour permettre aux étudiants de bien affronter les cours de
+spécialité dans chaque domaine.<br/><br/>
+Le second cycle opérationnel seulement aux départements d’élevage et
+d’électromécanique permet l'obtention de Master 2 option professionnelle. Les
+spécialtés sont : production ou santé animale en élévage et génie mécanique ou
+génie électrique en électromécanique.
+			<h3 id="ancre2">Inscriptions et réinscriptions</h3><br>
+			Les recrutements de nouveaux bacheliers à l’Institut National des
+			 Sciences et Techniques d’Abéché se font par voix de concours lancé à l’échelle nationale. 
+			 Les lauréats ont droit dès la première année à une bourse d’études durant leur cycle de formation. 
+			 Le taux de la bourse est celui fixé par le ministère de l’ Enseignement supérieur et de la recherche scientifique.
+
+Les réinscriptions des anciens étudiants se font de manière ordinaire au service central de la scolarité.
+ Les étudiants n’ont pas droit de reprendre deux fois dans le cycle sinon ils sont orientés. 
+ <h3 id="ancre3">Contrôles des connaissances</h3>	
+ Les contrôles de connaissances se font de la même manière dans tous les cinq départements de l’Institut.
+  Le système est modulaire où pour chaque matière, un examen terminal est obligatoire, deux contrôles continus
+   et éventuellement une moyenne des travaux pratiques. A l’issus de la première session les étudiants ayant validés
+    une moyenne supérieure ou égale à 10/20 passent en classe supérieure mais ceux ajournées passeront leurs
+     évaluations en seconde session. Pour plus d’information consulter le texte portant sur le régime des etudes, 
+     des examens et de la discipline.
+		  
+	</div>
+	<div id="footer">webmaster-webmaster-webmaster-webmaster-webmaster</div>
+	</div>
+	<div id="reset"></div>
+	
+	</div>
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>internet</title>
+	<meta charset="utf-8" >
+	
+	<link rel="stylesheet" type="text/css" href="../css/styledefaut.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax400.css">
+	
+</head>
+
+<body>
+	<div id="wrapper">
+	<div id="header">
+	<div id="logo-et-slogan">
+	<img id="logo" src="../images/logo_insta.png">
+	<p id="slogan">Unité Travail Progrès</p>
+	</div>
+	<div id="menu">
+	<ul>
+	   <li><a href="description/presentation.html">PRESENTATION</a></li>
+	     <li><a href="description/enseignement.html">ENSEIGNEMENT</a></li>
+	     <li><a href="description/bibliotheque.html">BIBLIOTHEQUE</a></li>
+	     <li><a href="description/partenaire.html">PARTENAIRE</a></li>
+	     <li><a href="description/recherche.html">RECHERCHE</a></li>
+	      <li><a href="departements/departements.html">DEPARTEMENTS</a></li>
+	      <li><a href="programmes/matieres.html">MATIERES</a></li>
+	      <li><a href="notes/authgesnote.php">GERER NOTES</a></li>
+	      <li><a href="notes/note.php">VOIR NOTES</a></li>
+	      <li><a href="listetudiants.html">LISTE ETUDIANTS</a></li>
+	      
+	</ul>
+	</div>
+	</div>
+	<div id="main">
+	<div id="tete">
+	<p id="titre">Institut National Supérieur des Sciences et Techniques d'Abéché</p>
+	<img id="banniere" src="../images/banniere1.jpg">
+	</div>
+	<div id="content">
+	 <h2 >LISTE DES ETUDIANTS DE GÉNIE INFORMATIQUE 3</h2>
+	 <h3>ANNEE ACADEMIQUE 2017-2018</h3>
+	 <table border="1" align="center">
+	 
+	 <tr bgcolor="cyan"><td align="center">MATRICULE</td><td align="center">NOM</td><td align="center">PRENOM</td><td align="center">SEXE</td><td align="center">DATE-NAISSANCE</td></tr>
+   	<tr ><td align="center">815</td><td align="center">ABDOULAYE ALI</td><td align="center">BRAHIM</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+		<tr ><td align="center">816</td><td align="center">ARSENE ASKEIN</td><td align="center">MARTIAL</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+	   <tr ><td align="center">822</td><td align="center">BECHIR ABBAS</td><td align="center">SALEH</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+	 	<tr ><td align="center">817</td><td align="center">BABARIA BAGZA</td><td align="center">JONATHAN</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+	  	<tr ><td align="center">818</td><td align="center">DJERAYOM DEVOIR</td><td align="center">NECTO</td><td align="center">M</td><td align="center">22-12-1992</td></tr> 
+	  	<tr ><td align="center">825</td><td align="center">KAGONBE KANABE</td><td align="center">BRUNO</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+	  	<tr ><td align="center">819</td><td align="center">LASSIMINGUE FALAMBY</td><td align="center">YVES</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+	  	<tr ><td align="center">820</td><td align="center">OUMAR ABDELAZIZ</td><td align="center">MAHAMAT</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+		<tr ><td align="center">821</td><td align="center">SABIT MAHAMAT</td><td align="center">ALI</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+	   <tr ><td align="center">823</td><td align="center">TARGOTO</td><td align="center">CHRISTIAN</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+	   <tr ><td align="center">824</td><td align="center">TORDINGAYE</td><td align="center">ISSAC</td><td align="center">M</td><td align="center">22-12-1992</td></tr>
+	      </table>
+	</div>
+	<div id="footer">webmaster-webmaster-webmaster-webmaster-webmaster</div>
+	</div>
+	<div id="reset"></div>
+	
+	</div>
+</body>
+</html>

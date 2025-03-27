@@ -1,0 +1,8 @@
+/* Created by TopStyle Trial - www.topstyle4.com */
+@media screen and (max-width: 400px){
+	#content img{
+		margin:2%;
+		width: 96%;
+		float: none;
+	}
+}

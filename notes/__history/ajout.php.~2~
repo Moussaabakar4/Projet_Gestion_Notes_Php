@@ -1,0 +1,103 @@
+
+
+
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>INSTA</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_default.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max750.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max400.css">
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="header">
+			    <div id="logo-et-slogan">
+				    <img id="logo" src="../images/logo_insta.png">
+					<p id="slogan">Unité Travail Progrés</p>
+				</div>
+				<div id="menu">
+				   <ul>
+					    <li><a href="../index.html" >Accueil</a></li>
+					    <li><a href="../description/presentation.html">Présentation</a></li>
+					    <li><a href="../departements/departements.html">Départements</a></li>
+						<li><a href="../description/enseignement.html">Enseignement</a></li>
+						<li><a href="../description/recherche.html">Recherche</a></li>
+						<li><a href="../description/bibliotheque.html">Bibliothèque</a></li>
+						<li><a href="../notes/note.php">Notes</a></li>
+						<li><a href="../programmes/matiere.html">Matières</a></li>
+					</ul>
+				</div>
+				</div>
+				<div id="main">
+				<p id="nom">INSTITUT NATIONAL SUPERIEUR DES SCIENCES ET TECHNIQUES D'ABECHE</p>
+				<img  id="entete" src="../images/banniere1.jpg" >
+				<div id="content_menu">
+				   <h1>ENREGISTREMENT D'UNE NOTE</h1>
+<form action="tajout.php"  method="POST">
+<table border="0" align="center" cellspacing="2" cellpadding="2">
+<tr align="center">
+<td>Matricule</td>
+<td><input type="text"  required name="matricule" ></td>
+</tr>
+
+<tr align="center">
+<td>Nom</td>
+<td><input type="text" required name="nom" ></td>
+</tr>
+
+<tr align="center">
+<td>Prenom</td>
+<td><input type="text" required name="prenom" ></td>
+</tr>
+
+<tr align="center">
+<td>CodeMatière</td>
+<td><input type="text" required name="codematiere" ></td>
+</tr>
+
+<tr align="center">
+<td>Controle</td>
+<td><input type="text" name="controle" ></td>
+</tr>
+
+<tr align="center">
+<td>Examen</td>
+<td><input type="text" name="examen"></td>
+</tr>
+
+<tr align="center">
+<td>TP</td>
+<td><input type="text" name="tp"></td>
+</tr>
+
+
+
+<tr align="center">
+<td colspan="2"><input type="submit" value="insérer"></td>
+</tr>
+</table>
+</form>
+<a href="affichagenote.php">Voir la liste des notes</a><br><br>
+<a href="changemotdepasse.php">changer le mot de passe</a><br><br>
+<a href="deconnection.php">Deconnection</a>
+
+				
+				</div>
+				<div id="footer">
+				   BP 6077 Ndjamena-Tchad Tel (DG) +235 66 29 05 45<br/>
+BP 130 Abeché-Tchad Tel (DGA) +235 66 36 59 19, (SG) +235 66 26 72 26<br/>
+Tel (Département Génie Informatique) +235 66 25 22 66<br/>
+INSTA 2017 ©<br/>
+				</div>
+				</div>
+	<div id="reset"></div>
+	</div>
+</body>
+</html>

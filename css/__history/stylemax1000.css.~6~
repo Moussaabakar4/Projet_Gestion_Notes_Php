@@ -1,0 +1,20 @@
+/* Created by TopStyle Trial - www.topstyle4.com */
+@media screen and (max-width: 1000px){
+	#wrapper{
+		width:96%;
+		margin: 2%;
+		background-image: none;
+	}
+	#header,#main{
+		padding: 2%;
+	}
+	#header{
+		width: 96%;
+		float: none;
+		background-color: blue;
+	}
+	#main{
+		width: 96%;
+		float: none;
+	}
+}

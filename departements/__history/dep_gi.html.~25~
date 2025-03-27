@@ -1,0 +1,87 @@
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>internet</title>
+	<meta charset="utf-8" >
+	
+	<link rel="stylesheet" type="text/css" href="../css/styledefaut.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax400.css">
+	
+</head>
+
+<body>
+	<div id="wrapper">
+	<div id="header">
+	<div id="logo-et-slogan">
+	<img id="logo" src="../images/logo_insta.png">
+	<p id="slogan">Unité Travail Progrès</p>
+	</div>
+	<div id="menu">
+	<ul>
+	     <li><a href="../description/presentation.html">PRESENTATION</a></li>
+	      <li><a href="../description/enseignement.html">ENSEIGNEMENT</a></li>
+	      <li><a href="../description/bibliotheque.html">BIBLIOTHEQUE</a></li>
+	      <li><a href="../description/partenaire.html">PARTENAIRE</a></li>
+	      <li><a href="../description/recherche.html">RECHERCHE</a></li>
+	</ul>
+	</div>
+	</div>
+	<div id="main">
+	<div id="tete">
+	<p id="titre">Institut National Supérieur des Sciences et Techniques d'Abéché</p>
+	<img id="banniere" src="../images/banniere1.jpg">
+	</div>
+	<div id="content">
+<h2>Le Département de Génie Informatique</h2>
+Niveau 1: <a href="../notes/note.php">NOTES</a>   <a href="#">TABLE DE MATIÈRES</a>  <a href="#">LISTE DES ETUDIANTS</a><br ><br >
+Niveau 2: <a href="#">NOTES</a>   <a href="#">TABLE DE MATIÈRES</a>  <a href="#">LISTE DES ETUDIANTS</a><br ><br >
+Niveau 3: <a href="#">NOTES</a>   <a href="#">TABLE DE MATIÈRES</a>  <a href="#">LISTE DES ETUDIANTS</a><br ><br >
+<a href="../notes/authgesnote.php">Gestion des notes</a>(uniquement par les enseignants)
+				 
+          <h3>Objectif du Département</h3>
+          Le département d’informatique de l’Institut Universitaire des Sciences et
+Techniques d’Abéché (IUSTA) forme en trois années académiques des Licenciés
+en informatique recrutés au niveau des baccalauréats des séries S (C, D, E) ou
+d’un titre admis en équivalence. La formation concerne deux options différentes :
+génie logiciel et réseau informatique.
+L’objectif essentiel visé est de former des informaticiens qui seront capables de
+concevoir, de réaliser, de mettre en oeuvre et de maintenir les systèmes
+informatiques correspondant aux besoins formulés par les utilisateurs.
+Les étudiants formés doivent être rapidement capables de comprendre et
+d’analyser les besoins des utilisateurs et de proposer les solutions techniques les
+mieux adaptées.
+Cette formation dispensée à temps plein se repartit de la manière suivante :<br>
+- Enseignements consacrés aux techniques fondamentales à savoir
+mathématique et méthodes quantitatives, économie, gestion et organisation ;<br>
+- Enseignements consacrés à l’acquisition des techniques d’application de
+l’informatique aux entreprises.
+<h3>Organisation du Département</h3>
+Le Département est dirigé par Monsieur Abakar Mahamat Ahmat. Le département vient d'être crée et il n'y a pas eu
+encore une nomination au service de la scolarité départementale
+Le Département dispose de trois Salles informatiques équipées d'une cinquantaine d'ordinateurs
+pour les travaux pratiques. Une connection Internet via le VSAT alimente toutes les salles.
+Le Département dispose également d'une grande Salle d'automatique équipé des sept postes de manipulation
+destinés au travaux pratiques en informatique industrielle et automatique des étudiants. Le responsable de cette
+Salle est Monsieur Farikou Ousmane, enseignant permanent en informatique et automatique du departement.
+Les travaux pratiques d'electronique, d'electricité et mécanique se déroulent dans l'enceinte du département
+d'electromécanique.
+Les cours sont assurés par les enseignants permanents de l'IUSTA, des missionnaires et vacataires venus de
+l'université de N'Djamena et des université étrangères partenaires de l'IUSTA.
+<h3 >Programme de formation</h3>
+La formation s’étend sur une durée de trois ans. A l’issus de cette formation, les lauréats obtiennent un diplôme de
+Licences en Informatique. 
+		  
+	</div>
+		<div id="footer">BP 6077 Ndjamena-Tchad     Tel (DG) +235 66 29 05 45 </br>
+BP 130 Abeché-Tchad    Tel (DGA) +235 66 36 59 19, (SG) +235 66 26 72 26</br>
+Tel (Département Génie Informatique) +235 66 25 22 66 </br> INSTA 2017 &copy;</br></div>
+	</div>
+	<div id="reset"></div>
+	
+	</div>
+</body>
+</html>

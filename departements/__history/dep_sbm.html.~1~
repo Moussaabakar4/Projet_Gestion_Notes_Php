@@ -1,0 +1,104 @@
+
+
+
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>INSTA</title>
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_default.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max750.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max400.css">
+<meta charset="utf-8">
+</head>
+
+
+<body>
+	<div id="wrapper">
+		<div id="header">
+			    <div id="logo-et-slogan">
+				    <img id="logo" src="../images/logo_insta.png">
+					<p id="slogan">Unité Travail Progrés</p>
+				</div>
+				<div id="menu">
+				    <ul>
+					
+					<li>	<a href="index.php" >Accueil</a></li>
+						<li><a href="presentation.php" >Présentation</a></li>
+						<li><a href="enseignement.php">Enseignement</a></li>
+						<li><a href="departement.php">Départements</a></li>
+						<li><a href="recherche.php">Recherche</a></li>
+						<li><a href="bibliotheque.php">Bibliothèque</a></li>
+						<li><a href="partenaire.php">Partenaires</a></li>
+						<li><a href="courex.php">Cours et Exercices</a></li>
+						<li><a href="dossiernote/authgesnote.php">Géstion des Notes</a></li>
+						<li><a href="dossiernote/note.php">Notes</a></li>
+						<li><a href="matiere/matiere.php">Matières</a></li>
+						
+						
+					</ul>
+				</div>
+				</div>
+				<div id="main">
+				<p id="nom">INSTITUT NATIONAL SUPERIEUR DES SCIENCES ET TECHNIQUES D'ABECHE</p>
+				<img  id="entete" src="../images/banniere1.jpg" >
+				<div id="content_menu">
+				   <h2 >Le Département des Sciences Biomédicales et Pharmaceutiques</h2>
+                        <a href="">Objectif du departement</a><br>
+                         <a href="">Organisation du departement</a><br>
+                          <a href="">Programme de formation</a><br>
+                           <a href="">Organisation des enseignements</a><br>
+                           <h3>Objectif du Departement</h3>
+            Le Département des Sciences Biomédicales et Pharmaceutiques a pour objectif
+         de former en trois années académiques, les étudiants dans le domaine de santé.
+     L’entrée à l’Institut se fera sur concours et le niveau baccalauréat est exigé. Les
+    candidats titulaires d’un diplôme d’État d’Infirmiers et ayant justifier d’une
+     ancienneté professionnelle d’au moins 3 ans peuvent faire le concours. Les
+     lauréats issus de la formation auront le grade de technicien Supérieurs de Santé.
+    la formation vise les domaines de la santé tels que :<br>
+    - Technique de Laboratoire médical ;<br>
+- Préparation et gestion en Pharmacie ;<br>
+- Technique d’imagerie médicale ;<br>
+- Technique d’assainissement ;<br>
+- Technique de Kinésithérapie ;<br>
+- Technique d’Ophtalmologie ;<br>
+- Technique d’Odontostomatologie.<br>
+La politique du département est de faire de l'INSTA un cadre de référence pour toute la zone CEMAC en matière de
+formation et ce pour contribuer à l'amélioration de la santé publique au Tchad particulièrement et dans la sous région
+en général.
+Un second cycle déjà ouvert (4ème et 5ème année) permet en deux années de formation, aux étudiants d'avoir les
+grades de Master1 puis Master2.
+<h3>Organisation du Département</h3>
+Le Département est dirigé par Dr Abdelsalam Adoum Doutoum.
+Le service de la scolarité du département est assuré par Monsieur Nandiguim Hubert Lamaï.
+Le Département ne dispose pas pour le moment de ses propres salles de cours magistraux et travaux pratiques.
+Cependant les cours et travaux dirigés se font dans les autres départements de l'institut. Les travaux pratiques ont
+lieu dans les laboratoires du département de sciences et techniques de l'elevage qui dispose des laboratoires bien
+équipés permettant de faire les recherches et travaux en nitrution, microbiologie et parasitologie. Certains travaux
+pratiques se font à l'hopital prefectoral d'Abéché.
+Les enseignements sont assurés par les enseignants dudit departement. Le departement fait également appel aux
+enseignants du departement des sciences et techniques de l'elevage pour certaines compétences. Dans le cadre de
+la coopération avec d'autres universités et écoles, certains cours sont assurés par les enseignants et chercheurs de
+l'université de N'Djamena, l'Université Adam Barka d'Abéché, de l'Ecole Inter-Etats des Sciences et Médecine
+Vétérinaires (EISMV) et de l’Université Cheik Anta Diop (UCAD) de Dakar et de l’Ecole Nationale Vétérinaire de Lyon
+en France.
+<h3>Programme de formation</h3>
+Le lien suivant donne <a href="#">le programme detaillé</a> ainsi que le volume horaire.
+
+
+				
+				</div>
+				<div id="footer">
+				   BP 6077 Ndjamena-Tchad Tel (DG) +235 66 29 05 45<br/>
+BP 130 Abeché-Tchad Tel (DGA) +235 66 36 59 19, (SG) +235 66 26 72 26<br/>
+Tel (Département Génie Informatique) +235 66 25 22 66<br/>
+INSTA 2017 ©<br/>
+				</div>
+				</div>
+	<div id="reset"></div>
+	</div>
+</body>
+</html>

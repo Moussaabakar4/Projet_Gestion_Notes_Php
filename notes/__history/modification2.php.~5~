@@ -1,0 +1,119 @@
+
+<?php
+//connection au serveur:
+$cnx = mysql_connect( "localhost", "root", "" ) ;
+//sélection de la base de données:
+$db = mysql_select_db( "dbgesnote" ) ;
+//récupération de la variable d'URL,
+//qui va nous permettre de savoir quel enregistrement modifier
+$id = @$_GET["Matricule"] ;
+//requête SQL:
+$sql = "SELECT *
+FROM tbnote
+WHERE matricule = '$id'" ;
+//exécution de la requête:
+$requete = mysql_query( $sql, $cnx ) ;
+//affichage des données:
+if( $result = mysql_fetch_object( $requete ) )
+{
+/*?>
+
+<?php*/
+}//fin if
+?>
+
+
+
+
+
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>INSTA</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_default.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max750.css">
+	<link rel="stylesheet" type="text/css" href="../css/responsivedesign01_max400.css">
+</head>
+
+<body>
+	<div id="wrapper">
+		<div id="header">
+			    <div id="logo-et-slogan">
+				    <img id="logo" src="../images/logo_insta.png">
+					<p id="slogan">Unité Travail Progrés</p>
+				</div>
+				<div id="menu">
+				    <ul>
+					
+					<li>	<a href="index.php" >Accueil</a></li>
+						<li><a href="presentation.php" >Présentation</a></li>
+						<li><a href="enseignement.php">Enseignement</a></li>
+						<li><a href="departement.php">Départements</a></li>
+						<li><a href="recherche.php">Recherche</a></li>
+						<li><a href="bibliotheque.php">Bibliothèque</a></li>
+						<li><a href="partenaire.php">Partenaires</a></li>
+						<li><a href="courex.php">Cours et Exercices</a></li>
+						<li><a href="dossiernote/authgesnote.php">Géstion des Notes</a></li>
+						<li><a href="dossiernote/note.php">Notes</a></li>
+						<li><a href="programmes/matieres.php">Matières</a></li>
+						
+						
+					</ul>
+				</div>
+				</div>
+				<div id="main">
+				<p id="nom">INSTITUT NATIONAL SUPERIEUR DES SCIENCES ET TECHNIQUES D'ABECHE</p>
+				<img  id="entete" src="../images/banniere1.jpg" >
+				<div id="content_menu">
+				  <form name="" action="modification3.php" method="POST">
+<input type="hidden" name="matricule" value="<?php echo($id) ;?>">
+<table border="0" align="center" cellspacing="2" cellpadding="2">
+<tr align="center">
+<td>nom</td>
+<td><input type="text" name="nom" value="<?php echo($result->nom) ;?>"></td>
+</tr>
+<tr align="center">
+<td>prenom</td>
+<td><input type="text" name="prenom" value="<?php echo($result->prenom) ;?>"></td>
+</tr>
+<tr align="center">
+<td>CodeMatiére</td>
+<td><input type="text" name="codematiere" value="<?php echo($result->codematiere) ;?>"></td>
+</tr>
+<tr align="center">
+<td>Controle</td>
+<td><input type="text" name="controle" value="<?php echo($result->controle) ;?>"></td>
+</tr>
+<tr align="center">
+<td>Examen</td>
+<td><input type="text" name="examen" value="<?php echo($result->examen) ;?>"></td>
+</tr>
+
+<tr align="center">
+<td>TP</td>
+<td><input type="text" name="tp" value="<?php echo($result->tp) ;?>"></td>
+</tr>
+<tr align="center">
+<td colspan="2"><input type="submit" value="modifier"></td>
+</tr>
+</table>
+</form> 
+
+				
+				</div>
+				<div id="footer">
+				   BP 6077 Ndjamena-Tchad Tel (DG) +235 66 29 05 45<br/>
+BP 130 Abeché-Tchad Tel (DGA) +235 66 36 59 19, (SG) +235 66 26 72 26<br/>
+Tel (Département Génie Informatique) +235 66 25 22 66<br/>
+INSTA 2017 ©<br/>
+				</div>
+				</div>
+	<div id="reset"></div>
+	</div>
+</body>
+</html>

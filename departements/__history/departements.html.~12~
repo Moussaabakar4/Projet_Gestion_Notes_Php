@@ -1,0 +1,73 @@
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>internet</title>
+	<meta charset="utf-8" >
+	
+	<link rel="stylesheet" type="text/css" href="../css/styledefaut.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax400.css">
+	
+</head>
+
+<body>
+	<div id="wrapper">
+	<div id="header">
+	<div id="logo-et-slogan">
+	<img id="logo" src="../images/logo_insta.png">
+	<p id="slogan">Unité Travail Progrès</p>
+	</div>
+	<div id="menu">
+	<ul>
+	      <li><a href="../index.html">ACCUEIL</a></li>
+	     <li><a href="../description/enseignement.html">ENSEIGNEMENT</a></li>
+	     <li><a href="../description/bibliotheque.html">BIBLIOTHEQUE</a></li>
+	     <li><a href="../description/partenaire.html">PARTENAIRE</a></li>
+	     <li><a href="../description/recherche.html">RECHERCHE</a></li>
+	      <li><a href="../departements/departements.html">DEPARTEMENTS</a></li>
+	      <li><a href="../programmes/matieres.html">MATIERES</a></li>
+	      <li><a href="../notes/authgesnote.php">GERER NOTES</a></li>
+	      <li><a href="../notes/note.php">VOIR NOTES</a></li>
+	      <li><a href="../listetudiants.html">LISTE ETUDIANTS</a></li>
+	</ul>
+	</div>
+	</div>
+	<div id="main">
+	<div id="tete">
+	<p id="titre">Institut National Supérieur des Sciences et Techniques d'Abéché</p>
+	<img id="banniere" src="../images/banniere1.jpg">
+	</div>
+	<div id="content">
+ <h3>Les Différents Départements</h3> 
+ L'Institut National Suppérieur des Sciences et Techniques d'Abéché (INSTA) se situe
+ au sud à la sortie de la <a href="www.wikipedia.org+abeche">ville d'Abéché.</a> Sa superficie atteint 20 hectares.
+ L'INSTA est structuré en sept(7) grands départements:<br/><br/>
+ <a href="dep_gi.html"> le Département de Génie Informatique (GI) </a><br/><br/>
+ <a href="#"> le Département de Génie Electrique (GEl) </a><br/><br/>
+ <a href="#"> le Département de Génie Mécanique (GM) </a><br/><br/>
+ <a href="#"> le Département de Génie Energétique (GEn) </a><br/><br/>
+ <a href="#"> le Département de Télécommunication et Multimédia (Télécom) </a><br/><br/>
+ <a href="dep_sbm.html"> le Département des Sciences Biomédicales et Pharmaceutique (SBM) </a><br/><br/>
+ <a href="dep_ste.html"> le Département des Sciences et Téchniques de l'élévage (STE) </a><br/><br/>
+	
+ 	 La capacité d'accueil indicative de l'institut est 900 étudiants avec une extension
+ 	 à terme un éffectif de 2000 étudiants. les installations de ces départements sont 
+ 	 implentées sur le meme site de l'institut, en articulation autour de son administration
+ 	 centrale et des équipements collectifs prévus à cet effet. A l'exception de la ferme
+ 	 expérimentale du Départements des Sciences et Techniques de l'Elevage qui sera ,pour 
+ 	 des raisons d'approche et d'hygiène du milieu, implanté sur un site en dehors du périmetre
+ 	 de l'institut. L'ensemble des surfaces hors oeuvres  atteint 16035 m2. Chaque département 
+ 	 disposera d'un complexe répondant aux exigences des activités pédagogiques, des travaux
+ 	 pratiques et de recherches qui y seront entrepris.
+		  
+	</div>
+	<div id="footer">webmaster-webmaster-webmaster-webmaster-webmaster</div>
+	</div>
+	<div id="reset"></div>
+	
+	</div>
+</body>
+</html>

@@ -1,0 +1,132 @@
+<!-- Created by TopStyle Trial - www.topstyle4.com -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>internet</title>
+	<meta charset="utf-8" >
+	
+	<link rel="stylesheet" type="text/css" href="../css/styledefaut.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1480.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1240.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax1000.css">
+	<link rel="stylesheet" type="text/css" href="../css/stylemax400.css">
+	
+</head>
+
+<body>
+	<div id="wrapper">
+	<div id="header">
+	<div id="logo-et-slogan">
+	<img id="logo" src="../images/logo_insta.png">
+	<p id="slogan">Unité Travail Progrès</p>
+	</div>
+	<div id="menu">
+	<ul>
+	      <li><a href="../description/enseignement.html">ENSEIGNEMENT</a></li>
+	      <li><a href="../description/bibliotheque.html">BIBLIOTHEQUE</a></li>
+	      <li><a href="../description/partenaire.html">PARTENAIRE</a></li>
+	      <li><a href="../description/recherche.html">RECHERCHE</a></li>
+	</ul>
+	</div>
+	</div>
+	<div id="main">
+	<div id="tete">
+	<p id="titre">Institut National Supérieur des Sciences et Techniques d'Abéché</p>
+	<img id="banniere" src="../images/banniere1.jpg">
+	</div>
+	<div id="content">
+	<h2 >Présentation de l'institut</h2>
+<p> L'Institut Universitaire des Sciences et Techniques d'Abéché (IUSTA) créé par Ordonnance numéro
+  007/PR/97 du 03 avril 1997(actuellement  INSTA)
+   est un établissement public d'enseignement supérieur et de formation 
+  professionnelle à caractère scientifique, doté de la personnalité juridique et de l'autonomie 
+  financière.</p>
+L’Institut a pour missions essentielles :<br/><br/>
+1- la formation initiale et continue ;<br/>
+2- la formation à la recherche ;<br/>
+3- la recherche scientifique et technologique ainsi que la valorisation des
+résultats ;<br/>
+4- la diffusion de la culture et de l'information scientifique.<br/><br/>
+
+<p>
+
+L'INSTA, administré par un Conseil d’Administration et dirigé par un Directeur Général placé,
+ est sous l'autorité à charge du Ministère de l'Enseignement Supérieur. Son siège est à Abéché,
+  chef-lieu de la Préfecture du Ouaddaï. La ville d'Abéché est située à l’est du pays à quelques 
+  900 km de la capitale N'Djaména. Créée vers le XIXe siècle, dernière capitale du royaume du  
+  Ouaddaï, Abéché s’appuie sur un passée florissant; aujourd'hui elle constitue le centre de 
+  gravité d’une importante région administrative : la ville est animée par une municipalité,
+   elle est la préfecture de son département et constitue le siège du Gouvernorat du Ouaddaï. 
+   La ville comptait 43.500 habitants en 1987 ; grâce à l'adduction d'eau réalisée avec l'aide
+    de la Coopération Allemande, le nombre d'habitants est passé à 150.000 en 2004. Le taux de 
+    croissance démographique est de 3.5 à 4 %. Le niveau des infrastructures est acceptable malgré 
+    quelques problèmes de voirie. Les réseaux d'eau et d'électricité sont bien développés, mais 
+    ils doivent faire face au problème d'expansion de la ville. Il existe des centres sanitaires 
+    et des écoles dans pratiquement tous les quartiers. Des Collèges et trois Lycées bilingues,
+     une Ecole Normale et l’Université Adam Barka constituent l’ossature de la formation dans
+      l’environnement de l’INSTA.</p>
+<p>La capacité d’accueil indicative de l’Institut est de 900 étudiants, avec une extension atteignant à terme un
+ effectif de 2000. </p>
+
+	
+       l’INSTA compte 7(sept) départements structurés comme suit :<br/><br/>
+- le Département de Génie Electrique;<br/>
+- le Département de Génie Mécanique;<br/>
+-  le Département de Génie Informatique;<br/>
+-  le Département de Génie Energétique;<br/>
+- le Département des Sciences et Techniques de l’Élevage;<br/>
+- le Département des Sciences Biomédicales et Pharmaceutiques ;<br/>
+-  le Département de Télécommunication et Multimédia.<br/>
+     Il ya aussi une section arabophones de sciences biomédicales.<br/><br/>
+
+L’INSTA vient d’ouvrir le second cycle (quatrième et cinquième année) pour la formation des ingénieurs en Master1
+et Master2 en :<br/>
+- Génie mécanique;<br/>
+- Génie électrique;<br/>
+- Et production et santé animales.<br/><br/>
+<img  id="pvg" src="images/vg.png" >
+Chaque département dispose d’un complexe répondant aux exigences des activités pédagogiques, des travaux et
+de recherches.
+L'encadrement est assuré par des enseignants-chercheurs propre à l'Institut, appuyés par ceux de l'Université de
+N'Djaména et ceux des établissements avec lesquelles nous avons des accords de coopération. <br/>Ces accords et
+conventions ont divers objectifs :<br/>
+- Formation des enseignants et techniciens de l’INSTA : Diplômes supérieurs (Doctorats) , spécialisation et
+actualisation des connaissances;<br/>
+- Possibilités pour nos étudiants de poursuivre leurs études;<br/>
+- Mission d’enseignement et échange d’expertise;<br/>
+- Assistance (définition, choix, implantation) dans le cadre des fournitures des équipements et matériels de
+laboratoire.<br/><br/>
+
+Ces conventions ont été signées avec les universités, écoles ou institutions ci-dessous :<br/>
+- Institut National des Sciences Appliquées de Lyon (INSA-Lyon);<br/>
+- Université Claude Bernard - Lyon 1;<br/>
+- Ecole Nationale Vétérinaire de Lyon;<br/>
+- Université Jean Monnet de Saint-Etienne (France);<br/>
+- Agence Universitaire de la Francophonie (AUF);<br/>
+- Institut National Polytechnique de Yaoundé (Cameroun);<br/>
+- Institut Universitaire de Technologie de Douala (Cameroun);<br/>
+- Université de N’Gaoundéré (Cameroun);<br/>
+- Ecole Supérieure Polytechnique de Dakar (Sénégal);<br/>
+- Ecole Inter-Etats des Sciences et Médecine Vétérinaire de Dakar (Sénégal);<br/>
+- Beirut University (Lebanon);<br/>
+- The Universities of Khartoum, Al-Fachir and Al-Djazira (Sudan);<br/>
+- The A. Tafawa Balewa University in Bauchi (Nigeria);<br/>
+- Université National du Bénin;<br/><br/>
+L’équipement de l’Institut en matériel de laboratoire constitue l’une des priorités du Gouvernement. Au total 24 laboratoires ont été
+identifiés et ont fait l’objet d’études avec nos partenaires regroupés dans un consortium formant un grand pool universitaire.
+L’IUSTA, établissement récent et dynamique est en pleine évolution et progresse chaque année. Avec son antenne de
+télécommunication VSAT, installée en 2006, l’institut est désenclavé et peut avoir accès à des cours à distance et surtout se
+connecter aux laboratoires de plusieurs instituts et universités européens. L’ouverture du second cycle (4ème et 5ème année) dans le
+cadre de l’intégration au système LMD, permettra la formation de cadres supérieurs qualifiés dans un référentiel international et
+pourra contribuer à résoudre le problème du besoin du personnel hautement qualifié dans le pays.
+		  
+	</div>
+	<div id="footer">BP 6077 Ndjamena-Tchad     Tel (DG) +235 66 29 05 45 </br>
+BP 130 Abeché-Tchad    Tel (DGA) +235 66 36 59 19, (SG) +235 66 26 72 26</br>
+Tel (Département Génie Informatique) +235 66 25 22 66 </br> INSTA 2017 &copy;</br></div>
+	</div>
+	<div id="reset"></div>
+	
+	</div>
+</body>
+</html>
